@@ -1,17 +1,16 @@
 /* TEAM */
-Design: Andrew Rabon
-Site: about.me/andrewrabon
-Twitter: @andrewrabon
-Location: CT, US
+Design: Rafael Masoni
+Site: rafaelmasoni.com
+Twitter: @rmasoni
+Location: São Paulo, Brazil
 
 /* THANKS */
-Paul Irish, paulirish.com
-Ryan Fait, ryanfait.com
+Carlos Benítez, etnassoft.com
+Willian Molinari, pothix.com
 
 /* SITE */
 Standards: HTML5, CSS3
-Components: Modernizr, jQuery
-Software: Notepad++, FileZilla FTP, Colorschemer
+Software: VIm, Adobe Photoshop
 
 /* the humans responsible & colophon */
 /* humanstxt.org */
